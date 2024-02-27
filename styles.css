@@ -1,0 +1,14 @@
+body {
+    text-align: center;
+    margin: auto;
+    font-family: Futura;
+}
+
+.container {
+    padding-block: 5vh;
+    width: 80%;
+}
+
+h1 {
+    padding-bottom: 4vh;
+}
